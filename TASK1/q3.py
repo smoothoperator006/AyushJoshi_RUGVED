@@ -5,7 +5,7 @@ def hill(num):
     length = len(digits)
     flag = 0
     while (i < length - 1 and digits[i] <= digits[i + 1]):
-     i += 1
+     i =i+ 1
 
      if (i == 0 or i == length - 1):
         return False
