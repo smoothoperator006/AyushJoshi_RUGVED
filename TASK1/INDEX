@@ -1,4 +1,4 @@
-this folder contains all the qs give in rugved ai taskphase 1 
+this folder contains description of all the qs given in rugved ai taskphase 1 
 INDEX:
 q1:takes three parameters and checks if the all true or false
 q2:counting each character of string and sorting alphabatically by converting i into a
@@ -9,7 +9,17 @@ q5:printing the Nth fibonacci term using recursion
 q6:checking if two strings are anagrams by first sorting them alphabatically and then 
 checking if their the same
 q7:displaying fibonacci terms till n th term
-
-q11:CLI = 0.0588 × L - 0.296 × S - 15.8
+q8:dividing string into user choice divisions
+q9:encrypting a string using ceaser cipher
+q10:implementing luhn's algo to check if a number is a valid credit card no
+q11:giving CLI grade of a paragraph
+CLI = 0.0588 × L - 0.296 × S - 15.8
 L = Average number of letters per 100 words
 S = Average number of sentences per 100 words
+q12:printing butterfly and dimamond pattern
+q13:displaying OOPS knowledge by using object sq to call fns from the shape and sqaure class
+q14:showing the element repeated in array
+q15:couldnt figure out how to print spiral
+
+
+
