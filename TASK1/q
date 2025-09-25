@@ -1,0 +1,15 @@
+this folder contains all the qs give in rugved ai taskphase 1 
+INDEX:
+q1:takes three parameters and checks if the all true or false
+q2:counting each character of string and sorting alphabatically by converting i into a
+list and using selction sort and arranging the letters accordin to their ascii code
+q3:checks if a number is a hill number(increasing then decreasing)
+q4:sorting a string using selection sort
+q5:printing the Nth fibonacci term using recursion
+q6:checking if two strings are anagrams by first sorting them alphabatically and then 
+checking if their the same
+q7:displaying fibonacci terms till n th term
+
+q11:CLI = 0.0588 × L - 0.296 × S - 15.8
+L = Average number of letters per 100 words
+S = Average number of sentences per 100 words
